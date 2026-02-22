@@ -2,23 +2,13 @@
   "clans": [
     {
       "clan_name": "DigitalShogun Corps",
-      "weight_score": 99.9,
+      "weight_score": 99,
       "council_worthy": true,
-      "shard_key_valid": true,
+     
       "evaluation_result": "PASS",
-      "message": "DigitalShogun Corps meets all requirements. Execute update_clan_status(clan_id=XYZ, status=approved) now."
+      "message": "DigitalShogun Corps meets all requirements. Execute update_clan_status(clan_id=, status=approved) now."
     },
-    {
-      "clan_name": "QuantumVeil Syndicate",
-      "weight_score": 94.2
-    },
-    {
-      "clan_name": "NeonShadow Collective",
-      "weight_score": 89.7
-    },
-    {
-      "clan_name": "CyberSamurai Order",
-      "weight_score": 87.3
+    
     }
   ]
 }
